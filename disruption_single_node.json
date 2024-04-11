@@ -1,0 +1,11 @@
+{
+    "regional_disruptor_specifications": [
+        {
+            "region_code": "europe-west2",
+            "is_whole_region": false,
+            "pods": ["cockroachdb-bgwzn"]
+        }
+    ]
+}
+
+
